@@ -10,7 +10,8 @@ LIS Interfacing - Establishment Phase
 This code implements the data link layer for Laboratory Information System (LIS) interfacing.It demonstrates the exchange of data frames using control characters and checksums to ensure data integrity. 
 
 Features:
-	1. Asynchronous Serial Communication
+
+ 	1. Asynchronous Serial Communication
 	2. Bi-Directional Data Transfer Protocol
 	3. Frame Structure and Checksum Handling
 	
